@@ -23,7 +23,8 @@ description: "An archive of posts sorted by categories."
 </ul>
 
 {% for tag in site.categories %} 
-  <h2 id="{{ tag[0] }}" style="color: #c91b26">{{ tag[0] | capitalize }}</h2>
+  <br />
+  <h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
   <ul class="post-list">
     {% assign pages_list = tag[1] %}  
     {% for post in pages_list %}
@@ -36,4 +37,5 @@ description: "An archive of posts sorted by categories."
     {% assign pages_list = nil %}
     {% assign group = nil %}
   </ul>
+  <br />
 {% endfor %}

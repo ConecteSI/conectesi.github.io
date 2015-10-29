@@ -1,6 +1,7 @@
 title:            Conecte-SI
 description:      "Grupo de formados e formandos em Sistemas de Informação na EACH-USP"
-logo:             logo.jpg
+logo:             logo_simples.png
+logo_alternate:   logo_simples_bg_escuro.png #for posts and pages
 disqus_shortname: 
 share:            true
 dropcap:			true
@@ -12,7 +13,7 @@ url:
 # Owner/author information
 owner:
   name:           Conecte-SI
-  avatar:         logo.jpg
+  avatar:         logo.png
   email:          
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Grupo que reúne formados e formandos em SI na EACH-USP para networking e troca de experiências profissionais
