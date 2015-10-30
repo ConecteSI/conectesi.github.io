@@ -1,7 +1,10 @@
 /* MOBILE MENU */
 @media (max-width: 40.063em) {
   .summer-blog-menu ul {
-  	background-color: #5F0087; } }
+  	background-color: #5F0087; }
+
+  .summer-blog-menu ul.opened {
+  	 z-index: 99; } }
 
 @media (min-width: 40.063em) {
   .summer-blog-menu ul li a:hover {
@@ -64,6 +67,24 @@
 	    .summer-site-head .summer-site-head-content h2 {
 	      padding-top: 0rem; } }
 
+
+	    /*  */
+	    .summer-page-container .summer-page-title h1 {
+	      padding-top: 3rem;
+	      padding-bottom: 2rem; }
+	      @media only screen and (min-width: 40.063em) {
+	        .summer-page-container .summer-page-title h1 {
+	          padding-top: 2rem;
+	          padding-bottom: 2rem; } }
+	      @media only screen and (min-width: 70em) {
+	        .summer-page-container .summer-page-title h1 {
+	          padding-top: 3rem;
+	          padding-bottom: 3rem; } }
+	      @media only screen and (min-width: 90em) {
+	        .summer-page-container .summer-page-title h1 {
+	          padding-top: 5rem;
+	          padding-bottom: 3rem; } }
+
 		/* DAY */
 		.summer-content .summer-index-post .summer-post-meta .day {
 		  color: #7B9F35; }
@@ -75,6 +96,11 @@
 /* PAGE TEMPLATE */
 .summer-page-container .summer-page-menu-header {
   background-color: #5F0087; }
+
+/* MOBILE - POST AND PAGE TEMPLATE */
+@media only screen and (max-width: 40.063em) {
+	.post-template > .row, .page-template > .row {
+	  margin-left: 0; } }
 
 /* LINKS */
 .summer-content .summer-index-post .summer-index-post-tags a:hover {
