@@ -9,10 +9,11 @@ categories:
 tags: ""
 imagefeature: ""
 mathjax: false
-featured: false
+featured: true
 comments: true
 title: "Review #1: LinkedIn Pulse"
 ---
+
 
 > O nosso primeiro encontro Conecte-SI foi muito produtivo, e já deu para trocar várias dicas de materiais em que vale a pena dar uma olhada!
 > Quer saber que dicas são essas? A gente conta!
