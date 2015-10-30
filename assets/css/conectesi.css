@@ -87,6 +87,9 @@
 .post-template .summer-post-header .summer-post-menu-header {
   background-color: #5F0087; }
 
+  .post-template .summer-post-content > div:not(.summer-post-title) p.with-image.small-image {
+    max-width: 40rem; }
+
 /* PAGE TEMPLATE */
 .summer-page-container .summer-page-menu-header {
   background-color: #5F0087; }
