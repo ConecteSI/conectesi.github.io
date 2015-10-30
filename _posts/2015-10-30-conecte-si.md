@@ -8,10 +8,11 @@ categories: null
 tags: conecteSI
 imagefeature: /images/banner_networking_nao_e_tudo.jpg
 mathjax: false
-featured: false
+featured: true
 comments: false
 title: "Conecte-SI!"
 ---
+
 
 ![Networking não é tudo, mas é 100%.]({{site.baseurl}}/images/banner_networking_nao_e_tudo.jpg)
 
