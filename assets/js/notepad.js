@@ -1,6 +1,6 @@
 'use strict';
 
-var summer = (function ($) {
+var notepad = (function ($) {
 
     var indexPostClass = '.notepad-index-post',
         mobileMenuButton = '.notepad-mobile-menu a',
@@ -54,7 +54,7 @@ var summer = (function ($) {
         }
     },
 
-    // summer javascripts initialization
+    // notepad javascripts initialization
     init = function () {
         indexPostAnimate();
         $(window).on('scroll', function() {
@@ -73,5 +73,5 @@ var summer = (function ($) {
 })(jQuery);
 
 (function () {
-    summer.init();
+    notepad.init();
 })();
