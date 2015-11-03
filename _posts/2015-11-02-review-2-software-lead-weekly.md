@@ -16,6 +16,7 @@ title: "Review #2: Software Lead Weekly"
 ---
 
 
+
 **Software Lead Weekly** é uma newsletter "para pessoas ocupadas que se preocupam com pessoas, cultura, e liderança".
 
 <p style="text-align: center;"><a href="http://www.softwareleadweekly.com">www.softwareleadweekly.com</a></p>
@@ -29,6 +30,7 @@ Ao final, ele também seleciona alguns tweets inspiradores, como o da última ed
 
 Sabe quem mais lê essa newsletter? Gerentes e vice-presidentes do Yammer, Wix, Any.Do, Khan Academy, SoundCloud, Intercom, Yelp, entre muitas outras!
 
+> Vale a pena [se inscrever e treinar o inglês](http://www.softwareleadweekly.com)!
+
 [![ConecteSI Review Software Lead Weekly]({{site.baseurl}}/images/conecteSIreview_2_SoftwareLeadWeekly.png)](http://www.softwareleadweekly.com)
 
-> Vale a pena [se inscrever e treinar o inglês](http://www.softwareleadweekly.com)!
