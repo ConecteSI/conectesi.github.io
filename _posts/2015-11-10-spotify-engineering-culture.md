@@ -11,14 +11,14 @@ imagefeature: ""
 mathjax: false
 featured: true
 comments: false
-title: Spotify Engineering Culture
+title: "Review #3: Spotify Engineering Culture"
 ---
 
 O vídeo "Spotify Engineering Culture" é muito legal pra entender a cultura dos times de engenharia de grandes empresas como o Spotify.
 
 (Ao publicar o vídeo, em maio de 2014, eles já tinham 1200 pessoas nos times de engenharia).
 
-O vídeo explica como o Spotify *escalarou a cultura* para acompanhar o crescimento dos times nos últimos anos, inclusive refinando sua maneira de aplicar metologias ágeis.
+O vídeo explica como o Spotify "**escalou sua cultura**" para acompanhar o crescimento dos times nos últimos anos, inclusive refinando sua maneira de aplicar metologias ágeis.
 
 Algumas das coisas mais legais:
 
