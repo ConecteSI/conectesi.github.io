@@ -23,7 +23,7 @@ O primeiro post da série [Conecte-SI Review](/categories/#review) é sobre o **
 [www.pulse.me](http://www.pulse.me "LinkedIn Pulse")
 
   <p class="small-image">
-  ![ConecteSI Review: LinkedInPulse]({{site.baseurl}}/images/conecteSIreview_LinkedinPulse.jpg)
+  ![ConecteSI Review: LinkedInPulse]({{site.url}}/images/conecteSIreview_LinkedinPulse.jpg)
   </p>
 
 O Pulse foi criado em 2010 e comprado pelo LinkedIn em 2013.
